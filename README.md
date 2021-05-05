@@ -2,8 +2,6 @@
 
 <br><br><br>
 
-# [CVPR2020]Learning to Cartoonize Using White-box Cartoon Representations
-[project page](https://systemerrorwang.github.io/White-box-Cartoonization/) |   [paper](https://github.com/SystemErrorWang/White-box-Cartoonization/blob/master/paper/06791.pdf) |   [twitter](https://twitter.com/IlIIlIIIllIllII/status/1243108510423896065) |   [zhihu](https://zhuanlan.zhihu.com/p/117422157) |   [bilibili](https://www.bilibili.com/video/av56708333) |  [facial model](https://github.com/SystemErrorWang/FacialCartoonization)
 
 - Tensorflow implementation for CVPR2020 paper “Learning to Cartoonize Using White-box Cartoon Representations”.
 - Improved method for facial images are now available:
@@ -84,29 +82,3 @@ https://drive.google.com/file/d/1j0jDENjdwxCDb36meP6-u5xDBzmKBOjJ/view?usp=shari
 - Manual data cleaning will greatly increace both datasets quality
 
 ## Acknowledgement
-
-We are grateful for the help from Lvmin Zhang and Style2Paints Research
-
-## License
-- Copyright (C) Xinrui Wang All rights reserved. Licensed under the CC BY-NC-SA 4.0 
-- license (https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
-- Commercial application is prohibited, please remain this license if you clone this repo
-
-## Citation
-
-If you use this code for your research, please cite our [paper](https://systemerrorwang.github.io/White-box-Cartoonization/):
-
-@InProceedings{Wang_2020_CVPR,
-author = {Wang, Xinrui and Yu, Jinze},
-title = {Learning to Cartoonize Using White-Box Cartoon Representations},
-booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2020}
-}
-
-
-# 中文社区
-
-我们有一个除了技术什么东西都聊的以技术交流为主的宇宙超一流二次元相关技术交流吹水群“纸片协会”。如果你一次加群失败，可以多次尝试。
-
-    纸片协会总舵：184467946
